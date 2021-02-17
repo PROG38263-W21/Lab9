@@ -1,4 +1,4 @@
-# Cross-site Scripting Example - PHP
+# Command Injection Example - PHP
 
 ## Building the example
 
