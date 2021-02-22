@@ -13,5 +13,5 @@
 * Now try injecting malicious command and see if you can run them on Shell through the user input.
 
 * Some example commands: 
-* <Your name>; cat /etc/passwd
-* <Your name>; echo "Command injected" > newfile
+* Your name; cat /etc/passwd
+* Your name; echo "Command injected" > newfile
